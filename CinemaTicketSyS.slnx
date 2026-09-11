@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".cs" />
+    <File Path="User.cs" />
+  </Folder>
+  <Project Path="CinemaTicketSyS.csproj" />
+</Solution>
